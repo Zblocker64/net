@@ -242,10 +242,10 @@
             "amount": "10000000"
           }
         ],
-        "max_deposit_period": "172800s"
+        "max_deposit_period": "1800s"
       },
       "voting_params": {
-        "voting_period": "172800s"
+        "voting_period": "1800s"
       },
       "tally_params": {
         "quorum": "0.334000000000000000",
@@ -311,7 +311,7 @@
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
-        "mint_denom": "stake",
+        "mint_denom": "uakt",
         "inflation_rate_change": "0.130000000000000000",
         "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
